@@ -9,9 +9,9 @@ public class printf {
         System.out.printf("asds");
         System.out.printf("1111111111111111111111111111");
         System.out.printf("1111111111111111111111111111");
-        System.out.printf("1111111111111111111111111111");
-        System.out.printf("1111111111111111111111111111");
-        System.out.printf("1111111111111111111111111111");
+        System.out.printf("11==========================1");
+        System.out.printf("mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm");
+        System.out.printf("nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn");
         System.out.printf("1111111111111111111111111111");
         System.out.printf("1111111111111111111111111111");
         System.out.println("hot-fix add ");
