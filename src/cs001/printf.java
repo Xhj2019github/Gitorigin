@@ -14,5 +14,7 @@ public class printf {
         System.out.printf("1111111111111111111111111111");
         System.out.printf("1111111111111111111111111111");
         System.out.printf("1111111111111111111111111111");
+        System.out.println("hot-fix add ");
+        System.out.println("hot-fix add ");
     }
 }
