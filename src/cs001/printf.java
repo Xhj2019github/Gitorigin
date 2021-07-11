@@ -7,6 +7,12 @@ public class printf {
         System.out.printf("asds");
         System.out.printf("asds");
         System.out.printf("asds");
-        System.out.printf("asds");
+        System.out.printf("1111111111111111111111111111");
+        System.out.printf("1111111111111111111111111111");
+        System.out.printf("1111111111111111111111111111");
+        System.out.printf("1111111111111111111111111111");
+        System.out.printf("1111111111111111111111111111");
+        System.out.printf("1111111111111111111111111111");
+        System.out.printf("1111111111111111111111111111");
     }
 }
